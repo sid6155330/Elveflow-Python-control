@@ -4,9 +4,9 @@ __copyright__ = ""
 __credits__ = ["None"]
 __license__ = "MIT"
 __version__ = "1.0.1"
-__maintainer__ = "Siddharth Rawat"
+__maintainer__ = "Siddharth Rawat, Shuji Kojima, Adam Micolich"
 __email__ = "siddharth.rawat@unsw.edu.au"
-__status__ = "Development"
+__status__ = "Production"
 
 from tkinter import *
 import tkinter as tk
