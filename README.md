@@ -1,5 +1,8 @@
 # Elveflow-Python-control
 Sequential flow and image acquisition (Elveflow + ZWO ASI)
+
+![microfluidics](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/c73d5dec-54be-41ed-b06d-46d561ab2531)
+
 ![casdfacfac](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/4dbf43de-048c-4b2f-8565-91a4e9557b16)
 
 
@@ -13,3 +16,5 @@ Sequential flow and image acquisition (Elveflow + ZWO ASI)
 ![D](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/1b79abdd-f702-4dd0-b687-b0786769590d)
 
 ![E](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/9b21139b-5ebc-4b33-9bba-c7c51eb21e37)
+
+
