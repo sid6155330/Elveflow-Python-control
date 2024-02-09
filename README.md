@@ -1,6 +1,6 @@
 # Elveflow-Python-control
-Sequential flow and image acquisition (Elveflow + ZWO ASI)
-Hardware: 
+## Sequential flow and image acquisition (Elveflow + ZWO ASI)
+### Hardware: 
 - OB1 MK4 Pressure Controller (Elveflow)
 - 12 Valve MUX Distributor (Elveflow)
 - MFS Flow Sensor (Elveflow)
