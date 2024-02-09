@@ -1,6 +1,10 @@
 # Elveflow-Python-control
 Sequential flow and image acquisition (Elveflow + ZWO ASI)
-
+Hardware: 
+- OB1 MK4 Pressure Controller (Elveflow)
+- 12 Valve MUX Distributor (Elveflow)
+- MFS Flow Sensor (Elveflow)
+- ZWO ASI2600MM Pro Camera
 ![microfluidics](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/c73d5dec-54be-41ed-b06d-46d561ab2531)
 ![GUI](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/fc57e540-f067-483a-9cf6-bcfcd74b4a4e)
 ![A](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/f80f75a6-abb4-446e-87ff-488e1e64067e)
