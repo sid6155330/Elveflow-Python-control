@@ -6,7 +6,7 @@ __license__ = "MIT"
 __version__ = "1.0.1"
 __maintainer__ = "Siddharth Rawat, Shuji Kojima, Adam Micolich"
 __email__ = "siddharth.rawat@unsw.edu.au"
-__Laste updated on__ = "15 Feb. 2024"
+__Last updated on__ = "15 Feb. 2024"
 __status__ = "Production"
 
 from tkinter import *
