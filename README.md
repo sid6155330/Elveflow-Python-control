@@ -5,6 +5,9 @@
 - 12 Valve MUX Distributor (Elveflow)
 - MFS Flow Sensor (Elveflow)
 - ZWO ASI2600MM Pro Camera
+- Thorlabs ELL9K Multi position Slider
+- Thorlabs KDC101 controller + MT1/M-Z9 motarized translation stage
+  
 ![microfluidics](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/c73d5dec-54be-41ed-b06d-46d561ab2531)
 ![Capture1](https://github.com/sid6155330/Elveflow-ZWO_ASI-Python-control/assets/62871230/cd64b78a-9c82-4694-9980-d72d22581004)
 
