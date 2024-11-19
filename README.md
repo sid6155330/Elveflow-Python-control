@@ -9,7 +9,7 @@
 - Thorlabs KDC101 controller + MT1/M-Z9 motarized translation stage
   
 ![microfluidics](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/c73d5dec-54be-41ed-b06d-46d561ab2531)
-![Capture1](https://github.com/sid6155330/Elveflow-ZWO_ASI-Python-control/assets/62871230/cd64b78a-9c82-4694-9980-d72d22581004)
+![Capture_10_09_2024 (1)](https://github.com/user-attachments/assets/57a75897-d526-4bf9-9b70-599a6f24e08b)
 
 
 ![A](https://github.com/sid6155330/Elveflow-Python-control/assets/62871230/f80f75a6-abb4-446e-87ff-488e1e64067e)
